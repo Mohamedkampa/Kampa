@@ -1,2 +1,3 @@
-# Kampa
-#thes tool fonly testing
+import os
+os.system("clear")
+print("Hallo worled")
